@@ -1,2 +1,3 @@
 # momentum
-Javascript Learning Project
+
+Javascript Momentum Learning Project
